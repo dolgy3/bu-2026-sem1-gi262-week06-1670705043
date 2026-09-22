@@ -19,7 +19,7 @@ namespace MidtermExam.Prob01
 
         }
 
-        protected override void LevelUP()
+        protected override void LevelUp()
         {
             
         }
